@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/274266ff-4b5b-42bd-9064-9966d3f8c458)# security
+# security
 
 ### 云安全方向学术会议排班表
 
